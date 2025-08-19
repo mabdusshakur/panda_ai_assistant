@@ -29,7 +29,7 @@ Panda Assistant is an intelligent, modular AI agent designed to help users manag
 ## 🚀 Getting Started
 
 1. **Run the agent:**
-   After installing the requirements, follow this youtube video and its previous playlist video if you don't know anything about this how to run: [Panda Assistant Setup]()
+   After installing the requirements, follow this youtube video and its previous playlist video if you don't know anything about this how to run: [Panda Assistant Setup](https://youtu.be/Ep2JdiExSkA?feature=shared)
 ---
 
 ## 🖼️ Screenshots

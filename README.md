@@ -33,6 +33,9 @@ Panda Assistant is an intelligent, modular AI agent designed to help users manag
 ---
 
 ## 🖼️ Screenshots
+<img width="406" height="424" alt="firefox_aEb7DS5lLN" src="https://github.com/user-attachments/assets/50f9dbc1-e244-4027-93b1-daff9a6cc0df" />
+<img width="1920" height="1080" alt="firefox_vMXffz92WW" src="https://github.com/user-attachments/assets/b04e2100-b350-4b1d-b0f4-aae2d50fb08f" />
+<img width="1356" height="970" alt="gXQdRO8jcb" src="https://github.com/user-attachments/assets/60110755-1947-4ba3-997d-a1397d3484db" />
 
 ---
 
